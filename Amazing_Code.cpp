@@ -20,3 +20,7 @@ int main(int argc, char *argv[]) {
 }
 
 
+string printMoney(int in_money){
+	(void)in_money;
+	return "";
+}
