@@ -21,6 +21,6 @@ int main(int argc, char *argv[]) {
 
 
 string printMoney(int in_money){
-	(void)in_money;
-	return "";
+	
+	return "PRINTING OUT "+in_money+" MILLION DOLLARS";
 }
